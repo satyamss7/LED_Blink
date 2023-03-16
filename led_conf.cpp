@@ -205,6 +205,7 @@ int main()
 	 	set_gpio(1,0);
 	 	set_gpio(2,1);
 	 	sleep(1);
+		std::cout<<"Inside while"<<std::endl;
 	 }
 	
 }
